@@ -1,0 +1,17 @@
+{
+  "title":"文本字段处理", 
+  "alerts": {
+    "selectNumberField": "支持文本串联拼接及标签化处理。 请注意，源文本字段的选择顺序将影响拼接顺序。"
+  },
+  "labels": {
+    "number": "快递号",
+    "texts": "源文本字段列表",
+    "target": "目标字段"
+  },
+  "placeholder": {
+    "texts": "请按拼接次序选择要处理的文本字段列",
+    "target": "请选择处理结果字段列"
+
+  },
+  "submit": "开始转换"
+} 
